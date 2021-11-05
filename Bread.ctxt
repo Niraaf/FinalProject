@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Bread
+comment1.params=
+comment1.target=Bread()
+comment2.params=speed
+comment2.target=void\ setSpeed(int)
+comment3.params=
+comment3.target=void\ act()
+numComments=4
