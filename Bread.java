@@ -1,7 +1,7 @@
 import greenfoot.*;  // (World, Actor, GreenfootImage, Greenfoot and MouseInfo)
 public class Bread extends Actor
 {
-    int speed;
+    int speed; //fast
     int enemyHealth;
     String[]names;
     public Bread()
